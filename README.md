@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/built%20with-Power%20BI-yellow?style=flat&logo=powerbi)
+
 # 🎵 Chinook Analytics Dashboard – Power BI
 
 Interactive Power BI report built on the classic **Chinook** sample database.\
